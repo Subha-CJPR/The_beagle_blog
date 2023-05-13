@@ -1,0 +1,83 @@
+.outer {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1743px;
+    height: 698.57px;
+    left: 38px;
+    right:38px;
+    top: 47px;
+
+    border: 2px solid #000000;
+}
+.inner {
+    position: absolute;
+    width: 1540.51px;
+    height: 653.54px;
+    
+    top: 24.46px;
+    left: 89px;
+    right:89px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 40px;
+    
+
+    color: #000000;
+}
+
+.images {
+    position: absolute;
+width: 962px;
+height: 77px;
+left: 58px;
+top: 742px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 77px;
+text-decoration-line: underline;
+}
+
+.dog {
+    position: absolute;
+    width: 600px;
+    height: 362px;
+    left: 58px;
+    top: 874px;
+    
+}
+.more {
+    position: absolute;
+    width: 245px;
+    height: 48px;
+    left: 58px;
+    top: 1600px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 48px;
+    text-decoration-line: underline;
+    
+    color: #000000;
+}
+.trivia {
+    position: absolute;
+    width: 1623px;
+    height: 469px;
+    left: 58px;
+    top: 1700px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 65px;
+    
+    
+    color: #000000;
+}
